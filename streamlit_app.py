@@ -4,7 +4,9 @@ from PIL import Image
 
 load_css()
 
-st.write("[![Star](https://img.shields.io/github/stars/premkumarkora/links.svg?logo=github&style=social)](https://gitHub.com/premkumarkora/links)")
+st.write("[![Star](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=stars)](https://gitHub.com/premkumarkora/links)")
+
+
 
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('Prem Photo.png'))
