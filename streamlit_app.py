@@ -11,7 +11,7 @@ col2.image(Image.open('dp.png'))
 
 st.header('PremKumar Kora')
 
-st.info('Data Scientist')
+st.info("Data scientist with expertise in creating, developing, testing and deploying data science algorithms to deliver meaningful insights and implement action-oriented solutions to complex business problems")
 
 icon_size = 20
 
