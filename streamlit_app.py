@@ -4,7 +4,6 @@ from PIL import Image
 
 load_css()
 
-st.write("[![Star](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=stars)](https://gitHub.com/premkumarkora/links)")
 
 
 
